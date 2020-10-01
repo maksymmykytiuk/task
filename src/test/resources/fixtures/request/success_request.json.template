@@ -1,0 +1,6 @@
+{
+    "login": "{{login}}",
+    "fullName": "{{fullName}}",
+    "dob": "{{dob}}",
+    "gender": "{{gender}}"
+}
